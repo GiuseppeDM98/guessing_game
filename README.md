@@ -5,6 +5,7 @@ This folder is one of the examples covered in the guide.
 
 # guessing_game
 A guessing game.
+
 Here’s how it works: the program will generate a random integer between 1 and 100.
 
 It will then prompt the player to enter a guess.
