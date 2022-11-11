@@ -1,8 +1,3 @@
-# Source
-I am following the guide to learn Rust https://doc.rust-lang.org/book/title-page.html.
-
-This folder is one of the examples covered in the guide.
-
 # guessing_game
 A guessing game.
 
